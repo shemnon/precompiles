@@ -2,8 +2,8 @@
   "name": "blake2b_f",
   "description": "BLAKE2 compression function `F`",
   "address": {
-    "full": "0000000000000000000000000000000000000000000000000000000000000009",
-    "hex": "9",
+    "full": "0x0000000000000000000000000000000000000009",
+    "hex": "0x9",
     "decimal": "9"
   },
   "origin": {

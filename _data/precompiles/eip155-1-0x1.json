@@ -2,8 +2,8 @@
   "name": "ecrecover",
   "description": "ECDSA public key recovery function on the elliptic curve secp256k1",
   "address": {
-    "full": "0000000000000000000000000000000000000000000000000000000000000001",
-    "hex": "1",
+    "full": "0x0000000000000000000000000000000000000001",
+    "hex": "0x1",
     "decimal": "1"
   },
   "origin": {

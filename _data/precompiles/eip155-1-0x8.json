@@ -2,8 +2,8 @@
   "name": "ecpair",
   "description": "Optimal ate pairing check on the elliptic curve alt_bn128",
   "address": {
-    "full": "0000000000000000000000000000000000000000000000000000000000000008",
-    "hex": "8",
+    "full": "0x0000000000000000000000000000000000000008",
+    "hex": "0x8",
     "decimal": "8"
   },
   "origin": {

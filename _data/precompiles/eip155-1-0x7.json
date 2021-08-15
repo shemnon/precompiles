@@ -2,8 +2,8 @@
   "name": "ecmul",
   "description": "Scalar multiplication on the elliptic curve alt_bn128",
   "address": {
-    "full": "0000000000000000000000000000000000000000000000000000000000000007",
-    "hex": "7",
+    "full": "0x0000000000000000000000000000000000000007",
+    "hex": "0x7",
     "decimal": "7"
   },
   "origin": {

@@ -2,8 +2,8 @@
   "name": "identity",
   "description": "The identity function",
   "address": {
-    "full": "0000000000000000000000000000000000000000000000000000000000000004",
-    "hex": "4",
+    "full": "0x0000000000000000000000000000000000000004",
+    "hex": "0x4",
     "decimal": "4"
   },
   "origin": {

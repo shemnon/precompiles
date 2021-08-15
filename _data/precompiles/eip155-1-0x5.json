@@ -2,8 +2,8 @@
   "name": "modexp",
   "description": "Big integer modular exponentiation",
   "address": {
-    "full": "0000000000000000000000000000000000000000000000000000000000000005",
-    "hex": "5",
+    "full": "0x0000000000000000000000000000000000000005",
+    "hex": "0x5",
     "decimal": "5"
   },
   "origin": {
