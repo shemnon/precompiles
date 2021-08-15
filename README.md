@@ -1,4 +1,13 @@
-# EVM Precompiled Contract Catalog
+# EVM Precompiled and System Contract Catalog
+
+This repository catalogs the precompiled and system contracts of ethereum and
+ethereum-like chains. A precompiled contract is one whos implementation is not
+on-chian whereas a system contract is one that was defined at genesis to an
+arbitrary address.
+
+This repository does not track regularly deployed contracts or contract
+addresses resulting from regular (`CREATE` or `CREATE2`) contract deployments,
+even if they existed at genesis.
 
 The source data is in _data/precompiles.
 
