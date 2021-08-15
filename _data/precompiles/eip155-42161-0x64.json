@@ -1,0 +1,24 @@
+{
+  "name": "ArbSys",
+  "description": "Arbitrum System Contrat",
+  "address": {
+    "full": "0x0000000000000000000000000000000000000064",
+    "hex": "0x64",
+    "decimal": "100"
+  },
+  "origin": {
+    "chain": "eip155:42161",
+    "specification": "https://developer.offchainlabs.com/docs/arbsys"
+  },
+  "networks": [
+    "eip155:42161",
+    "eip155:421611"
+  ],
+  "languages": {
+    "solidity": {
+      "type": "Contract",
+      "interface_url": "https://github.com/OffchainLabs/arb-os/blob/develop/contracts/arbos/builtin/ArbSys.sol",
+      "abi_url": "https://github.com/OffchainLabs/arb-os/blob/develop/contracts/arbos/build/contracts/ArbSys.json"
+    }
+  }
+}
