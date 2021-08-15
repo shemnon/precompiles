@@ -1,0 +1,16 @@
+{
+  "name": "modexp",
+  "description": "Big integer modular exponentiation",
+  "address": {
+    "full": "0000000000000000000000000000000000000000000000000000000000000005",
+    "hex": "5",
+    "decimal": "5"
+  },
+  "origin": {
+    "chain": "eip155:1",
+    "specification": "https://eips.ethereum.org/EIPS/eip-198"
+  },
+  "networks": [
+    "*"
+  ]
+}

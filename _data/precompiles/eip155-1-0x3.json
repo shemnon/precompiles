@@ -1,0 +1,22 @@
+{
+  "name": "ripemd160",
+  "description": "The RIPEMD-160 hash function",
+  "address": {
+    "full": "0000000000000000000000000000000000000000000000000000000000000003",
+    "hex": "3",
+    "decimal": "3"
+  },
+  "origin": {
+    "chain": "eip155:1",
+    "specification": "https://ethereum.github.io/yellowpaper/paper.pdf"
+  },
+  "networks": [
+    "*"
+  ],
+  "languages": {
+    "solidity": {
+      "type": "function",
+      "name": "ripemd160"
+    }
+  }
+}

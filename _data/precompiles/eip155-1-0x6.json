@@ -1,0 +1,16 @@
+{
+  "name": "ecadd",
+  "description": "Addition on the elliptic curve alt_bn128",
+  "address": {
+    "full": "0000000000000000000000000000000000000000000000000000000000000006",
+    "hex": "6",
+    "decimal": "6"
+  },
+  "origin": {
+    "chain": "eip155:1",
+    "specification": "https://eips.ethereum.org/EIPS/eip-196"
+  },
+  "networks": [
+    "*"
+  ]
+}

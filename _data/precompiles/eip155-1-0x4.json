@@ -1,0 +1,16 @@
+{
+  "name": "identity",
+  "description": "The identity function",
+  "address": {
+    "full": "0000000000000000000000000000000000000000000000000000000000000004",
+    "hex": "4",
+    "decimal": "4"
+  },
+  "origin": {
+    "chain": "eip155:1",
+    "specification": "https://ethereum.github.io/yellowpaper/paper.pdf"
+  },
+  "networks": [
+    "*"
+  ]
+}

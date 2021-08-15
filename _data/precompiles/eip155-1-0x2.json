@@ -1,0 +1,22 @@
+{
+  "name": "sha256",
+  "description": "The SHA2-256  hash function",
+  "address": {
+    "full": "0000000000000000000000000000000000000000000000000000000000000002",
+    "hex": "2",
+    "decimal": "2"
+  },
+  "origin": {
+    "chain": "eip155:1",
+    "specification": "https://ethereum.github.io/yellowpaper/paper.pdf"
+  },
+  "networks": [
+    "*"
+  ],
+  "languages": {
+    "solidity": {
+      "type": "function",
+      "name": "sha256"
+    }
+  }
+}

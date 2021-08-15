@@ -1,0 +1,16 @@
+{
+  "name": "ecpair",
+  "description": "Optimal ate pairing check on the elliptic curve alt_bn128",
+  "address": {
+    "full": "0000000000000000000000000000000000000000000000000000000000000008",
+    "hex": "8",
+    "decimal": "8"
+  },
+  "origin": {
+    "chain": "eip155:1",
+    "specification": "https://eips.ethereum.org/EIPS/eip-197"
+  },
+  "networks": [
+    "*"
+  ]
+}

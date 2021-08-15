@@ -1,0 +1,16 @@
+{
+  "name": "ecmul",
+  "description": "Scalar multiplication on the elliptic curve alt_bn128",
+  "address": {
+    "full": "0000000000000000000000000000000000000000000000000000000000000007",
+    "hex": "7",
+    "decimal": "7"
+  },
+  "origin": {
+    "chain": "eip155:1",
+    "specification": "https://eips.ethereum.org/EIPS/eip-196"
+  },
+  "networks": [
+    "*"
+  ]
+}
