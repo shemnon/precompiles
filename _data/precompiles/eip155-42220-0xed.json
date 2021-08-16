@@ -1,0 +1,18 @@
+{
+  "name": "BLS12_G2MULTIEXP",
+  "description": "BLS12-381 multiexponentiation on a curve twist defined over quadratic extension of the base field",
+  "address": {
+    "full": "0x00000000000000000000000000000000000000ed",
+    "hex": "0xed",
+    "decimal": "237"
+  },
+  "origin": {
+    "chain": "eip155:42220",
+    "specification": "https://github.com/celo-org/celo-proposals/blob/master/CIPs/cip-0031.md"
+  },
+  "networks": [
+    "eip155-42220",
+    "eip155-44787",
+    "eip155-62320"
+  ]
+}

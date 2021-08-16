@@ -1,0 +1,18 @@
+{
+  "name": "NUMBER_VALIDATORS",
+  "description": "Gets the size of the current elected validator set.",
+  "address": {
+    "full": "0x00000000000000000000000000000000000000f9",
+    "hex": "0xf9",
+    "decimal": "249"
+  },
+  "origin": {
+    "chain": "eip155:42220",
+    "specification": "https://github.com/celo-org/celo-monorepo/blob/master/packages/protocol/contracts/common/UsingPrecompiles.sol#L136"
+  },
+  "networks": [
+    "eip155-42220",
+    "eip155-44787",
+    "eip155-62320"
+  ]
+}

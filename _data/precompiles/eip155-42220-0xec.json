@@ -1,0 +1,18 @@
+{
+  "name": "BLS12_PAIRING",
+  "description": "BLS12-381 pairing operations between a set of pairs of (G1, G2) points",
+  "address": {
+    "full": "0x00000000000000000000000000000000000000ec",
+    "hex": "0xec",
+    "decimal": "236"
+  },
+  "origin": {
+    "chain": "eip155:42220",
+    "specification": "https://github.com/celo-org/celo-proposals/blob/master/CIPs/cip-0031.md"
+  },
+  "networks": [
+    "eip155-42220",
+    "eip155-44787",
+    "eip155-62320"
+  ]
+}

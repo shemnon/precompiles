@@ -1,0 +1,18 @@
+{
+  "name": "BLS12_MAP_FP2_TO_G2",
+  "description": "BLS12-381 maps extension field element into the G2 point",
+  "address": {
+    "full": "0x00000000000000000000000000000000000000ea",
+    "hex": "0xea",
+    "decimal": "234"
+  },
+  "origin": {
+    "chain": "eip155:42220",
+    "specification": "https://github.com/celo-org/celo-proposals/blob/master/CIPs/cip-0031.md"
+  },
+  "networks": [
+    "eip155-42220",
+    "eip155-44787",
+    "eip155-62320"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "BLS12_MAP_FP_TO_G1",
+  "description": "BLS12-381 maps base field element into the G1 point",
+  "address": {
+    "full": "0x00000000000000000000000000000000000000eb",
+    "hex": "0xeb",
+    "decimal": "235"
+  },
+  "origin": {
+    "chain": "eip155:42220",
+    "specification": "https://github.com/celo-org/celo-proposals/blob/master/CIPs/cip-0031.md"
+  },
+  "networks": [
+    "eip155-42220",
+    "eip155-44787",
+    "eip155-62320"
+  ]
+}

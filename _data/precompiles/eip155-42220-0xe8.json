@@ -1,0 +1,18 @@
+{
+  "name": "BLS12_377_G1MUL",
+  "description": "BLS12-377 point multiplication on a curve defined over prime field",
+  "address": {
+    "full": "0x00000000000000000000000000000000000000e8",
+    "hex": "0xe8",
+    "decimal": "232"
+  },
+  "origin": {
+    "chain": "eip155:42220",
+    "specification": "https://github.com/celo-org/celo-proposals/blob/master/CIPs/cip-0031.md"
+  },
+  "networks": [
+    "eip155-42220",
+    "eip155-44787",
+    "eip155-62320"
+  ]
+}

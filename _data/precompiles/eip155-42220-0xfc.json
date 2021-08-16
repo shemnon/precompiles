@@ -1,0 +1,18 @@
+{
+  "name": "FRACTION_MUL",
+  "description": "calculate a * b^x for fractions a, b to `decimals` precision",
+  "address": {
+    "full": "0x00000000000000000000000000000000000000fc",
+    "hex": "0xfc",
+    "decimal": "252"
+  },
+  "origin": {
+    "chain": "eip155:42220",
+    "specification": "https://github.com/celo-org/celo-monorepo/blob/master/packages/protocol/contracts/common/UsingPrecompiles.sol#L21"
+  },
+  "networks": [
+    "eip155-42220",
+    "eip155-44787",
+    "eip155-62320"
+  ]
+}
